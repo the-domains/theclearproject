@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: This is another test to see how this works
-datePublished: '2016-03-08T13:01:15.524Z'
-dateModified: '2016-03-08T13:01:13.028Z'
+datePublished: '2016-03-08T13:07:48.590Z'
+dateModified: '2016-03-08T13:07:35.317Z'
 title: TEST
 author: []
 sourcePath: _posts/2016-03-08-this-is-another-test.md
