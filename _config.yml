@@ -1,6 +1,6 @@
 name: TheClearProject
 favicon: null
-layout_spectrum: 0.49696
+layout_spectrum: 0.00709
 typography_spectrum: 0.00304
 collections:
   - index:
@@ -35,6 +35,6 @@ color:
     - '#8fdcfe'
   brandStrength: 0.5
   lightness: 0.5
-  saturation: 0
-  rhythmicContrast: 1
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
