@@ -1,7 +1,7 @@
 name: TheClearProject
 favicon: null
 layout_spectrum: 0.74798
-typography_spectrum: 0.76619
+typography_spectrum: 0.00304
 collections:
   - index:
       path: /
