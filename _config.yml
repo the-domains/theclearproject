@@ -1,8 +1,7 @@
+name: TheClearProject
+favicon: null
 layout_spectrum: 0.8553191
-opengraph:
-  image: null
-  type: null
-  appId: null
+typography_spectrum: 0.76619
 collections:
   - index:
       path: /
@@ -15,26 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7319149
-  brandStrength: 0.5
-  lightness: 0.5
   brandColors:
     - '#5ccffe'
     - '#000201'
     - '#397f9d'
     - '#27596d'
     - '#8fdcfe'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.7319149
   rhythmicContrast: 0.5
-typography_spectrum: 0
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: TheClearProject
+purpose: []
